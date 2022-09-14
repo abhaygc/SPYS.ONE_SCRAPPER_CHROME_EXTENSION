@@ -20,3 +20,5 @@ How to use:
 Example: Visit https://spys.one/free-proxy-list/US/ for US proxies
 2. Launch the installed extension 
 3. Copy the required category of IP address using the button above each category!
+
+PS: I had coded this project in 2020 but forgot to upload it. It may break at some pages now in 2022 :)
